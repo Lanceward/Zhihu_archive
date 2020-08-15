@@ -1,0 +1,56 @@
+{
+    "question": {
+        "type": "question",
+        "id": 366471795,
+        "title": "求python学习书籍推荐？",
+        "question_type": "normal",
+        "created": 1579097369,
+        "updated_time": 1579097369,
+        "url": "https://www.zhihu.com/api/v4/questions/366471795",
+        "answer_count": 1,
+        "relationship": {}
+    },
+    "answers": [
+        {
+            "id": 999455496,
+            "type": "answer",
+            "answer_type": "normal",
+            "author": {
+                "id": "2b4c8131976e3e07656489405a47cfea",
+                "url_token": "xiao-bai-shi-ge-81",
+                "name": "小白师哥",
+                "avatar_url": "https://pic3.zhimg.com/v2-da00fee55012c325d5212ffac5b27ebe_l.jpg?source=1940ef5c",
+                "avatar_url_template": "https://pic1.zhimg.com/v2-da00fee55012c325d5212ffac5b27ebe.jpg?source=1940ef5c",
+                "is_org": false,
+                "type": "people",
+                "url": "https://www.zhihu.com/api/v4/people/2b4c8131976e3e07656489405a47cfea",
+                "user_type": "people",
+                "headline": "bl9789要资料和想进自学团直接加我，一个个回复真的好麻烦",
+                "gender": 1,
+                "is_advertiser": false,
+                "follower_count": 764,
+                "is_followed": false,
+                "is_privacy": false
+            },
+            "url": "https://www.zhihu.com/api/v4/answers/999455496",
+            "created_time": 1580876630,
+            "updated_time": 1580876630,
+            "voteup_count": 11,
+            "comment_count": 1,
+            "admin_closed_comment": false,
+            "comment_permission": "all",
+            "can_comment": {
+                "reason": "",
+                "status": true
+            },
+            "reshipment_settings": "allowed",
+            "content": "<p>1、《Introducing Python》</p><p>2、《像计算机科学家一样思考Python》</p><p>3、《Python编程：从入门到实践》</p><p>适合小白同学基础，建议基础一定要打牢，多敲，后期多做项目。网络上也可以找到很多教学课程。</p>",
+            "editable_content": "",
+            "annotation_action": null,
+            "mark_infos": [],
+            "ad_answer": null,
+            "is_rewardable": false
+        }
+    ],
+    "completed": true
+}
